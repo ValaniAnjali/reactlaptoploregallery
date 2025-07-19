@@ -8,7 +8,9 @@ import Laptops from './Laptops';
 import ContactUs from './ContactUs';
 import Feedback from './Feedback';
 import Purchase from './Purchase';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
+
 
 function App() {
   return (
